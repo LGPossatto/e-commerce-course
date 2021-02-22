@@ -1,4 +1,4 @@
-import "./homepage.styles.scss";
+import "./home-page.style.scss";
 import Directory from "../../components/direcoty/directory.component";
 
 const HomePage = () => {
